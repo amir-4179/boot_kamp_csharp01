@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bername\\\u062A\u0645\u0631\u06CC\u0646\\ConsoleApp8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C91554D-072F-468F-ACAD-138CA71AB6E7}|ConsoleApp8\\ConsoleApp8.csproj|d:\\bername\\\u062A\u0645\u0631\u06CC\u0646\\consoleapp8\\consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C91554D-072F-468F-ACAD-138CA71AB6E7}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bername\\\u062A\u0645\u0631\u06CC\u0646\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Program.cs",
+              "ToolTip": "D:\\bername\\\u062A\u0645\u0631\u06CC\u0646\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "RelativeToolTip": "ConsoleApp8\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T07:52:09.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
